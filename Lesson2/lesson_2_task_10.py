@@ -10,4 +10,4 @@ def bank(x, y):
     return account_balance
 
 balance_after_years = bank(50000, 5)
-print("Спустя", y, "лет у клиента на счету будет:",balance_after_years)
+print("Спустя", y, "лет у клиента на счету будет:", balance_after_years)
