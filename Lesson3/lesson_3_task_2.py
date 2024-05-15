@@ -1,4 +1,4 @@
-from smartphone import Smartphone
+from Smartphone import Smartphone
 
 catalog = []
 

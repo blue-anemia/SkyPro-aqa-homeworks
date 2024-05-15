@@ -1,5 +1,5 @@
-from address import Address
-from mailing import Mailing
+from Address import Address
+from Mailing import Mailing
 
 # Создаем адреса
 to_address = Address('123456', 'Москва', 'Тверская', '10', '15')
