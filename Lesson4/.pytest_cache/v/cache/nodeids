@@ -1,20 +1,5 @@
 [
-  "calculator_qa.py::test_avg_empty_list",
-  "calculator_qa.py::test_avg_positive_list",
-  "calculator_qa.py::test_div_by_zero",
-  "calculator_qa.py::test_div_positive",
-  "calculator_qa.py::test_sum_float_nums",
-  "calculator_qa.py::test_sum_negative_nums",
-  "calculator_qa.py::test_sum_positive_and_negative_nums",
-  "calculator_qa.py::test_sum_positive_nums",
-  "calculator_qa.py::test_sum_zero_nums",
-  "calculator_test.py::test_avg_empty_list",
-  "calculator_test.py::test_avg_positive_list",
-  "calculator_test.py::test_div_by_zero",
-  "calculator_test.py::test_div_positive",
-  "calculator_test.py::test_sum_float_nums",
-  "calculator_test.py::test_sum_negative_nums",
-  "calculator_test.py::test_sum_positive_and_negative_nums",
-  "calculator_test.py::test_sum_positive_nums",
-  "calculator_test.py::test_sum_zero_nums"
+  "calculator_test.py::test_sum_positive_nums[-6--10--16]",
+  "calculator_test.py::test_sum_positive_nums[4-5-9]",
+  "calculator_test.py::test_sum_positive_nums[5.61-4.29-9.9]"
 ]
